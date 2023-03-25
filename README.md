@@ -2,6 +2,8 @@
 
 This is a Python-based dashboard for monitoring various sensors in an oil rig environment. The dashboard is built using Dash, a web application framework for Python.
 
+![initial dash](./snapshot.png)
+
 ## Contact
 
 
